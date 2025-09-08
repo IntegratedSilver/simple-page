@@ -1,0 +1,35 @@
+h1, a, p {
+  font-family: "Coda", system-ui;
+  font-weight: 400;
+  font-style: normal;
+
+}
+h1{
+
+  font-size: 50px;
+  color: red;
+}
+
+p{
+    color:blueviolet
+}
+
+ h1, p{
+    text-align: center;
+    margin-bottom: 2%;
+}
+img, iframe{
+    display: block; 
+  margin-left: auto;
+  margin-right: auto; 
+  
+}
+img{
+    margin-bottom: 4%;
+}
+
+a {
+    text-align:center;
+    display:block;
+    margin-bottom: 4%;
+}
